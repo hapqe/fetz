@@ -17,7 +17,7 @@
             '#8D72E1'
         ]
     ] as const;
-    
+
     let joined: boolean | undefined = undefined;
     let dragging = false;
     let full = false;
